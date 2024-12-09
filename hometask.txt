@@ -1,1 +1,13 @@
-Разницы в конечных версиях веток нет. Но в их коммитах есть отличия
+Разницы в конечных версиях веток нет. Но в их коммитах есть отличия.
+11 коммитов:
+first commit
+Merge branch 'boots_buttons'
+Merge 'hat' of https://github.com/YandexLyceum/human
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
